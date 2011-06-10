@@ -60,7 +60,13 @@ Links
 ==============
 
 * [Javadocs](http://mzsanford.github.com/jvalidate/target/site/apidocs/)
-* [Test Coverage](http://mzsanford.github.com/jvalidate/target/site/emma/)
+* [Test Coverage](http://mzsanford.github.com/jvalidate/target/site/emma/index.html)
+
+To do
+===============
+
+* MUST: Update methods with Javadoc comments
+* MAY: Add Java annotations for static validations
 
 Change Log
 ===============
