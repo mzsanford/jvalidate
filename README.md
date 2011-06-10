@@ -56,6 +56,12 @@ Each validation throws a subclass of the base `ValidationException` to allow for
     }
 ```
 
+Links
+==============
+
+* [Javadocs](http://mzsanford.github.com/jvalidate/target/site/apidocs/)
+* [Test Coverage](http://mzsanford.github.com/jvalidate/target/site/emma/)
+
 Change Log
 ===============
 
